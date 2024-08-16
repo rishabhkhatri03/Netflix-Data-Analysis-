@@ -37,7 +37,11 @@ The dataset contains information such as:
 - Clone the repository:
    ```bash
    git clone https://github.com/your-username/netflix-data-analysis.git
-pip install -r requirements.txt
-jupyter notebook notebooks/netflix_analysis.ipynb
+- Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+- Run Jupyter Notebook:
+   ```bash
+   jupyter notebook notebooks/netflix_analysis.ipynb
 
 
